@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  album_name: 
+  artist: 
+  release_date: 
+  stars: 
+  listened_date: 
+
+two:
+  album_name: 
+  artist: 
+  release_date: 
+  stars: 
+  listened_date: 
